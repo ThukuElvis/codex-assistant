@@ -11,8 +11,8 @@ description: 通过自然语言调用 OpenAI Codex CLI 执行代码任务：重�
 
 ## 触发词
 
-- `/codex` - 显式调用
-- `用 Codex` - 自然语言调用
+- `/codex-assistant` - 显式调用
+- `用 Codex` / `codex 帮我` - 自然语言调用
 
 ---
 

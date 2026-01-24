@@ -28,15 +28,15 @@ OpenAI Codex 是一个强大的 AI 编程助手，但直接使用命令行不够
 
 | 场景 | Codex 擅长 | 触发示例 |
 |------|-----------|---------|
-| **代码重构** | 优化结构、提升可读性 | `/codex 重构这段代码` |
-| **Bug 修复** | 定位问题、给出修复 | `/codex 找出并修复 bug` |
-| **测试生成** | 编写单元测试 | `/codex 给这个函数写测试` |
-| **代码解释** | 逐行解释逻辑 | `/codex 解释这段代码` |
-| **跨语言迁移** | 语言/框架转换 | `/codex 转成 TypeScript` |
-| **代码审查** | 找出问题、改进建议 | `/codex 审查这段代码` |
-| **文档生成** | 添加注释/文档 | `/codex 给这个函数写文档` |
-| **样板代码** | 生成模板/脚手架 | `/codex 写一个组件模板` |
-| **代码清理** | 移除技术债务 | `/codex 清理这段代码` |
+| **代码重构** | 优化结构、提升可读性 | `/codex-assistant 重构这段代码` |
+| **Bug 修复** | 定位问题、给出修复 | `/codex-assistant 找出并修复 bug` |
+| **测试生成** | 编写单元测试 | `/codex-assistant 给这个函数写测试` |
+| **代码解释** | 逐行解释逻辑 | `/codex-assistant 解释这段代码` |
+| **跨语言迁移** | 语言/框架转换 | `/codex-assistant 转成 TypeScript` |
+| **代码审查** | 找出问题、改进建议 | `/codex-assistant 审查这段代码` |
+| **文档生成** | 添加注释/文档 | `/codex-assistant 给这个函数写文档` |
+| **样板代码** | 生成模板/脚手架 | `/codex-assistant 写一个组件模板` |
+| **代码清理** | 移除技术债务 | `/codex-assistant 清理这段代码` |
 
 ---
 
@@ -108,7 +108,7 @@ git clone https://github.com/joeseesun/codex-assistant.git \
 ### 方式一：通过 Claude Code 对话
 
 ```
-你：/codex 重构这段代码，让它更简洁
+你：/codex-assistant 重构这段代码，让它更简洁
 Codex：[自动执行并返回结果]
 
 你：用 Codex 帮我写一个快速排序
@@ -132,7 +132,7 @@ echo "写一个快速排序算法" | codex exec
 ### 示例 1：代码重构
 
 ```
-你：/codex 重构这段代码，消除重复逻辑
+你：/codex-assistant 重构这段代码，消除重复逻辑
 
 Codex：[分析代码并提供重构方案]
 ```
@@ -140,7 +140,7 @@ Codex：[分析代码并提供重构方案]
 ### 示例 2：Bug 修复
 
 ```
-你：/codex 帮我找出并修复这个 bug
+你：/codex-assistant 帮我找出并修复这个 bug
 [粘贴有问题的代码]
 
 Codex：[定位问题并给出修复]
@@ -149,7 +149,7 @@ Codex：[定位问题并给出修复]
 ### 示例 3：测试生成
 
 ```
-你：/codex 给这个函数写单元测试
+你：/codex-assistant 给这个函数写单元测试
 [粘贴函数代码]
 
 Codex：[生成测试用例]
@@ -158,7 +158,7 @@ Codex：[生成测试用例]
 ### 示例 4：跨语言迁移
 
 ```
-你：/codex 把这段 Python 转成 TypeScript
+你：/codex-assistant 把这段 Python 转成 TypeScript
 [粘贴 Python 代码]
 
 Codex：[生成等价的 TypeScript 代码]
