@@ -1,0 +1,20 @@
+{
+  "name": "codex-assistant",
+  "version": "1.0.0",
+  "description": "Call OpenAI Codex CLI through natural language for code tasks: refactoring, bug fixing, testing, explanation, migration, review, and documentation.",
+  "author": "Qiaomu (乔木)",
+  "dependencies": {
+    "codex_cli": {
+      "version": ">=0.89.0",
+      "description": "OpenAI Codex CLI must be installed and configured"
+    }
+  },
+  "platforms": ["macOS", "Linux"],
+  "tags": ["codex", "openai", "code-generation", "refactoring", "testing", "code-review", "automation"],
+  "triggers": [
+    "/codex",
+    "用 Codex",
+    "codex 帮我",
+    "codex assistant"
+  ]
+}
