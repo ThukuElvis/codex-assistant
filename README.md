@@ -42,7 +42,17 @@ OpenAI Codex 是一个强大的 AI 编程助手，但直接使用命令行不够
 
 ## 安装
 
-### 方式一：Claude Code 一键安装（推荐）
+### 方式一：`npx skills add`（推荐）
+
+使用 Vercel 的 skills 生态系统一键安装：
+
+```bash
+npx skills add joeseesun/codex-assistant
+```
+
+> 支持 Claude Code、OpenManus 等兼容 `skills` 标准的 AI Agent
+
+### 方式二：Claude Code 一键安装
 
 直接告诉 Claude Code：
 
@@ -52,7 +62,7 @@ OpenAI Codex 是一个强大的 AI 编程助手，但直接使用命令行不够
 
 Claude Code 会自动完成所有安装步骤！
 
-### 方式二：手动安装
+### 方式三：手动安装
 
 #### 1. 安装 Codex CLI
 
